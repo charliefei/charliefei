@@ -1,5 +1,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charliefei&show_icons=true&theme=radical)
 
+## Contact Me
+
+- [Blog of Charlie Fei](https://charliefei.github.io)
+
 ## Skills
 
 #### Programming Languages
@@ -20,4 +24,4 @@
 
 #### Other tools & Technologies
 
-![Others](https://skillicons.dev/icons?i=git,github,markdown,netlify,vercel,vscode,githubactions,gitlab)
+![Others](https://skillicons.dev/icons?i=git,github,markdown,idea,vercel,vscode,githubactions,gitlab)
