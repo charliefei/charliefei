@@ -16,11 +16,11 @@
 
 #### Backend Technologies
 
-[![Backend Technologies](https://skillicons.dev/icons?i=aws,azure,spring,docker&perline=3)](https://skillicons.dev)
+[![Backend Technologies](https://skillicons.dev/icons?i=aws,azure,spring,flask,docker)](https://skillicons.dev)
 
 #### Database & Tools
 
-![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb)
+![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)
 
 #### Other tools & Technologies
 
